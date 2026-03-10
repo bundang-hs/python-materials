@@ -22,4 +22,8 @@
    <img width="458" height="343" alt="image" src="https://github.com/user-attachments/assets/b0398e78-cd44-4c45-be7b-6f87837e776c" /> <br>
     2) 파이썬 선택하여 파일 생성 <br>
     <img width="342" height="233" alt="image" src="https://github.com/user-attachments/assets/1f77468e-f80f-4a2e-aa4a-a78116275072" /> <br>
- 
+<br>
+<br>
+4. 모두 완료되었다면, 01_test.pdf를 보고, 01_test(제출)의 코드를 복사하여 파이참으로 실습한 후 제출해보세요 ~ !
+<br>
+<br>
