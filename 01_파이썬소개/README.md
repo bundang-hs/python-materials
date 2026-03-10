@@ -15,4 +15,11 @@
    <br>
 3. 파이참 설치하기<br>
    1_파이참 홈페이지(https://www.jetbrains.com/ko-kr/pycharm/download/?section=windows) 에 접속하여 설치파일을 다운로드 받으세요.<br>
-   2_모든 항목에 체크하여 설치를 완료하세요. 
+   2_**모든 항목에 체크**하여 설치를 완료하세요.
+   <br>
+   <br>
+ 1) 새로만들기-파일
+   <img width="458" height="343" alt="image" src="https://github.com/user-attachments/assets/b0398e78-cd44-4c45-be7b-6f87837e776c" />
+ 2) 파이썬 선택하여 파일 생성
+    <img width="342" height="233" alt="image" src="https://github.com/user-attachments/assets/1f77468e-f80f-4a2e-aa4a-a78116275072" />
+ 
